@@ -60,8 +60,4 @@ pip install scikit-learn pandas numpy matplotlib
 Notebooks are designed for educational purposes and may include explanations and comments for clarity.
 
 Data may be imported directly from scikit-learn datasets or synthetic generation.
-
-📄 License
-This project is licensed under the MIT License.
-
-Let me know if you want to add example datasets, images, or interactive widgets to the README as well.
+you can also find the dataset in my repos
